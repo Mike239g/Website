@@ -2000,6 +2000,17 @@ input, select, textarea {
 			position: relative;
 		}
 
+		.features section .project-image {
+			margin: 0 0 1.25em 0;
+		}
+
+		.features section .project-image img {
+			display: block;
+			width: 100%;
+			height: auto;
+			border-radius: 0.35em;
+		}
+
 			.features section:nth-child(-n + 2) {
 				border-top-width: 0;
 			}
